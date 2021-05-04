@@ -1,0 +1,2 @@
+/Users/abdullahalsalem/Documents/GitHub/Accelerate/Accelerate/Accelerate/obj/Debug/Accelerate.csprojAssemblyReference.cache
+/Users/abdullahalsalem/Documents/GitHub/Accelerate/Accelerate/Accelerate/obj/Debug/Accelerate.csproj.CoreCompileInputs.cache
