@@ -24,13 +24,13 @@ Hard => "You have 3 minutes"
             //your code goes here
             switch (x)
             {
-                case (int)x.Easy:
+                case Difficulty.Easy:
                     Console.WriteLine("You have 3 minutes 45 seconds");
                     break;
-                case (int)x.Medium:
+                case Difficulty.Medium:
                     Console.WriteLine("You have 3 minutes 20 seconds");
                     break;
-                case (int)x.Hard:
+                case Difficulty.Hard:
                     Console.WriteLine("You have 3 minutes");
                     break;
             }
