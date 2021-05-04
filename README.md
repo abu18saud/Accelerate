@@ -1,4 +1,4 @@
-# Accelerate - Enums
+# Accelerate - Enums - VS for Mac
 A racing video game has 3 difficulty levels: Easy, Medium, and Hard.
 Each difficulty level is assigned maximum time to complete the track: the higher the difficulty, the lower the time.
 The program you are given defines Player class and Difficulty enum, and creates 3 Player objects with different difficulties as parameter for the constructor.
